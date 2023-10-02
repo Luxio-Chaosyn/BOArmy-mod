@@ -1,0 +1,13 @@
+GenericEntity : "{C7923961D7235D70}Prefabs/Characters/Footwear/CombatBoots_Soviet_01.et" {
+ ID "521A80AC387D2829"
+ components {
+  BaseLoadoutClothComponent "{5244C34DEE7DBFB2}" {
+   WornMaterialsOverride {
+    "{410CBD21F6C56444}Assets/Characters/Footwear/CombatBoots_Soviet_01/Data/CombatBoots_Soviet_01_black.emat"
+   }
+   ItemMaterialsOverride {
+    "{410CBD21F6C56444}Assets/Characters/Footwear/CombatBoots_Soviet_01/Data/CombatBoots_Soviet_01_black.emat"
+   }
+  }
+ }
+}
