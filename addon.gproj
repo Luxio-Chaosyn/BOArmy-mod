@@ -1,0 +1,8 @@
+GameProject {
+ ID "BOArmymod"
+ GUID "5E84D04261CE9123"
+ TITLE "BOArmy-mod"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
