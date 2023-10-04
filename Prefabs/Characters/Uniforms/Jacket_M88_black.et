@@ -1,0 +1,26 @@
+GameEntity : "{E44990162EBC47B7}Prefabs/Characters/Uniforms/Jacket_M88_base.et" {
+ ID "5104869D194C6243"
+ components {
+  MeshObject "{5104869D194C6262}" {
+   Materials {
+    MaterialAssignClass "{5E888D73A978CDBB}" {
+     SourceMaterial "Jacket_M88_01_Item"
+     AssignedMaterial "{4CF49984BBF284E3}Assets/Characters/Uniforms/Jacket_M88/Data/Jacket_M88_01_item_black.emat"
+    }
+   }
+  }
+  BaseLoadoutClothComponent "{5104869D194C627A}" {
+   Slots {
+    LoadoutSlotInfo DummyBelt {
+     Prefab "{F928D90B6E4B9166}Prefabs/Characters/Vests/Vest_SovietHarness/Vest_SovietHarness_belt_dummy.et"
+    }
+   }
+   WornMaterialsOverride {
+    "{5254AAE8DC64B044}Assets/Characters/Uniforms/Jacket_M88/Data/Jacket_M88_01_black.emat"
+   }
+   ItemMaterialsOverride {
+    "{4CF49984BBF284E3}Assets/Characters/Uniforms/Jacket_M88/Data/Jacket_M88_01_item_black.emat"
+   }
+  }
+ }
+}
