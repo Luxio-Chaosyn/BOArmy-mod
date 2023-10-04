@@ -1,0 +1,24 @@
+SCR_ChimeraCharacter : "{98EB9CDD85B8C92C}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_Unarmed.et" {
+ ID "528AED06AB0ECD29"
+ components {
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Boots {
+     Prefab "{C7923961D7235D71}Prefabs/Characters/Footwear/CombatBoots_Soviet_01_black.et"
+    }
+    LoadoutSlotInfo Hat {
+     Name "Helmet"
+     AreaType LoadoutHeadCoverArea "{5A68E3333F00B23A}" {
+     }
+    }
+   }
+  }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{5D7CC173E6675BF5}" {
+     TargetStorage ""
+    }
+   }
+  }
+ }
+}
