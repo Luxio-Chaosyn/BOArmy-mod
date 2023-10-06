@@ -9,6 +9,9 @@ GameEntity : "{E44990162EBC47B7}Prefabs/Characters/Uniforms/Jacket_M88_base.et" 
     }
    }
   }
+  ParametricMaterialInstanceComponent "{56C6C01F261424B9}" {
+   ColorAlbedo 0 0 0 1
+  }
   BaseLoadoutClothComponent "{5104869D194C627A}" {
    Slots {
     LoadoutSlotInfo DummyBelt {
