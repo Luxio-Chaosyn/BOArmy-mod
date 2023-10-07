@@ -6,6 +6,9 @@ SCR_ChimeraCharacter : "{5346CF7E39A65A6B}Prefabs/Characters/Factions/OPFOR/USSR
     LoadoutSlotInfo Jacket {
      Prefab "{E44990162EBC47B8}Prefabs/Characters/Uniforms/Jacket_M88_black.et"
     }
+    LoadoutSlotInfo Pants {
+     Prefab "{FC32A6B8BF0FFE21}Prefabs/Characters/Uniforms/Pants_M88_black.et"
+    }
     LoadoutSlotInfo Boots {
      Prefab "{C7923961D7235D71}Prefabs/Characters/Footwear/CombatBoots_Soviet_01_black.et"
     }
