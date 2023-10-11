@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{E8DD27917B43F8BD}Prefabs/Editor/Modes/EditorModeBuilding.et"
+ Name "{3581B7E546495179}Prefabs/Weapons/Core/Ammo_Lazer_Red.et"
  Configurations {
   EntityTemplateResourceClass PC {
   }

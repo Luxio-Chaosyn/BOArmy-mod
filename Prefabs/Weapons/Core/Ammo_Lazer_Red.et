@@ -1,0 +1,8 @@
+TracerProjectile : "{5BD53C671A2A884B}Prefabs/Weapons/Core/Ammo_Lazer_Base.et" {
+ ID "DA5C6308000CDEF2"
+ components {
+  MeshObject "{5E966AE8CB06049C}" {
+  }
+ }
+ ProjectileModel ""
+}

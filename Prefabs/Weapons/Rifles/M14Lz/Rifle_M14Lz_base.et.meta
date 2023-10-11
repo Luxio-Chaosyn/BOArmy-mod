@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{51F3C0CF7CA06D4F}Prefabs/Weapons/Rifles/M14/Rifle_M14Lz_base.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

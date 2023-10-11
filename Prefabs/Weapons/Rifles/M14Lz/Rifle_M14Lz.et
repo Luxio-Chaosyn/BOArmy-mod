@@ -1,0 +1,23 @@
+GenericEntity : "{51F3C0CF7CA06D4F}Prefabs/Weapons/Rifles/M14Lz/Rifle_M14Lz_base.et" {
+ ID "5254ACCA959048B9"
+ components {
+  WeaponComponent "{CFBAA4B706BA66E8}" {
+   components {
+    MuzzleComponent "{CA6BE4D6B867541F}" {
+     FireModes {
+      BaseFireMode "{B80A64F4A8EF8333}" {
+       RoundsPerMinute 200
+       UIName "Single"
+      }
+      BaseFireMode "{5E966AF30BC11887}" {
+       MaxBurst -1
+       RoundsPerMinute 200
+       UIName "Full Auto"
+      }
+     }
+     MagazineTemplate "{ABE6F6A91329779A}Prefabs/Weapons/Magazines/Magazine_Lazer_M14Lz_30rnd.et"
+    }
+   }
+  }
+ }
+}

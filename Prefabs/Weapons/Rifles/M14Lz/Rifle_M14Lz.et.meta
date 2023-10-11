@@ -1,9 +1,11 @@
 MetaFileClass {
- Name "{59EF8ECAE1DCD417}Prefabs/Editor/Edit/EditorModeEdit.et"
+ Name "{CDD18B12DCDA51C4}Prefabs/Weapons/Rifles/M14/Rifle_M14Lz.et"
  Configurations {
   EntityTemplateResourceClass PC {
   }
   EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
   }
   EntityTemplateResourceClass PS4 : PC {
   }

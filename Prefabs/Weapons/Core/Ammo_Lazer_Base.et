@@ -1,0 +1,23 @@
+TracerProjectile : "{5D9330DE604D51A6}Prefabs/Weapons/Core/Ammo_BulletTracer_Base.et" {
+ ID "DA5C6308000CDEF2"
+ components {
+  ShellMoveComponent "{851AA4A2AE0A5691}" {
+   InitSpeed 500
+   Mass 0
+   ProjectileEffects {
+    BaseDamageEffect "{5168BBF3DBD79134}" {
+     DamageValue 25
+    }
+    BaseDamageEffect "{5CFCD2EBCFF40866}" {
+     DamageValue 25
+    }
+   }
+   AirDrag 0
+   WaterImpactDeceleration 0.8
+   WaterDrag 0.01
+  }
+ }
+ scale 2.5
+ "Tracer Burn Start After" 0.005
+ "Tracer Burn Time" 10
+}
