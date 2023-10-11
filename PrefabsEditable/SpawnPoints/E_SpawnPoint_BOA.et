@@ -1,0 +1,15 @@
+SCR_SpawnPoint : "{987991DCED3DC197}PrefabsEditable/SpawnPoints/E_SpawnPoint.et" {
+ ID "52E65E9446A3DC1D"
+ components {
+  SCR_EditableSpawnPointComponent "{52E65E94E3532698}" {
+   m_UIInfo SCR_EditableDescriptorUIInfo "{52E65E94C47560A2}" {
+    m_Image "{F2EBE9570C354B71}Assets/Misc/BOA_Logo.edds"
+    m_sFaction "BestOnisArmy"
+    m_aAuthoredLabels + {
+     30 1271773
+    }
+   }
+  }
+ }
+ m_sFaction "BestOnisArmy"
+}

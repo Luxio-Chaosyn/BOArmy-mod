@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{764343A0D8F5B8A9}Configs/Editor/PlaceableEntities/Groups_BestOnisArmy.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass XBOX_SERIES : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}

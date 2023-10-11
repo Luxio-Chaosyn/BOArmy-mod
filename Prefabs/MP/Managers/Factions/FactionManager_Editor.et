@@ -1,0 +1,8 @@
+SCR_FactionManager : "{A242612865F2A48E}Prefabs/MP/Managers/Factions/FactionManager_Base.et" {
+ ID "56B2B4776E6E4499"
+ Factions {
+  SCR_Faction "{5E966AAAFFDA4DA9}" : "{405F80E2FA09D950}Configs/Factions/BestOnisArmy.conf" {
+   m_bIsPlayable 0
+  }
+ }
+}
