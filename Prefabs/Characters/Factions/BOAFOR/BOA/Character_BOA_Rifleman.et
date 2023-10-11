@@ -1,0 +1,33 @@
+SCR_ChimeraCharacter : "{5AEB39143B0E4517}Prefabs/Characters/Factions/BOAFOR/BOA/Character_BOA_Unarmed.et" {
+ ID "520EC961A090BE1E"
+ components {
+  CharacterGrenadeSlotComponent "{520EA1D2F659CE6E}" {
+   WeaponType FragGrenade
+   WeaponTemplate "{645C73791ECA1698}Prefabs/Weapons/Grenades/Grenade_RGD5.et"
+  }
+  CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
+   WeaponType Rifle
+   WeaponTemplate "{CDD18B12DCDA51C4}Prefabs/Weapons/Rifles/M14Lz/Rifle_M14Lz.et"
+  }
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Hat {
+     Prefab "{EE99D30ECACF5B2F}Prefabs/Characters/HeadGear/Helmet_M1_01/Helmet_M1_Black_01.et"
+    }
+    LoadoutSlotInfo ArmoredVest {
+     Prefab "{7AE1012ABAF78F60}Prefabs/Characters/Vests/Vest_6B2/Vest_6B2_base_black.et"
+    }
+   }
+  }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{5E966ADACD6D446E}" {
+     TargetStorage "Prefabs/Characters/Uniforms/Pants_M88_black.et"
+     PrefabsToSpawn {
+      "{ABE6F6A91329779A}Prefabs/Weapons/Magazines/Magazine_Lazer_M14Lz_30rnd.et" "{ABE6F6A91329779A}Prefabs/Weapons/Magazines/Magazine_Lazer_M14Lz_30rnd.et" "{ABE6F6A91329779A}Prefabs/Weapons/Magazines/Magazine_Lazer_M14Lz_30rnd.et" "{ABE6F6A91329779A}Prefabs/Weapons/Magazines/Magazine_Lazer_M14Lz_30rnd.et"
+     }
+    }
+   }
+  }
+ }
+}

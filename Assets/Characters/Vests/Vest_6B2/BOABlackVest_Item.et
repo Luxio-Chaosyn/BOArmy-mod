@@ -1,0 +1,14 @@
+GenericEntity {
+ ID "5E966AD2B0196714"
+ components {
+  MeshObject "{5E966AD2D789D686}" {
+   Object "{12FC378A63513630}Assets/Characters/Vests/Vest_6B2/Vest_6B2_item.xob"
+   Materials {
+    MaterialAssignClass "{5E966AD2CABA7AC8}" {
+     SourceMaterial "Vest_6B3"
+     AssignedMaterial "{2B2CB7A2E261020F}Assets/Characters/Vests/Vest_6B2/Data/Vest_6b2_black.emat"
+    }
+   }
+  }
+ }
+}

@@ -16,13 +16,17 @@ GenericEntity : "{1F816D1D2CF505B8}Prefabs/Characters/Vests/Vest_6B2/Vest_6B2_ba
     }
    }
   }
+  MeshObject "{5312D798A817A294}" {
+   Materials {
+    MaterialAssignClass "{5E966AD1179EAD02}" {
+     SourceMaterial "Vest_6B3"
+     AssignedMaterial "{2B2CB7A2E261020F}Assets/Characters/Vests/Vest_6B2/Data/Vest_6b2_black.emat"
+    }
+   }
+  }
   BaseLoadoutClothComponent "{5312D798A71DFBB1}" {
-   WornMaterialsOverride {
-    "{2B2CB7A2E261020F}Assets/Characters/Vests/Vest_6B2/Data/Vest_6b2_black.emat"
-   }
-   ItemMaterialsOverride {
-    "{2B2CB7A2E261020F}Assets/Characters/Vests/Vest_6B2/Data/Vest_6b2_black.emat"
-   }
+   WornModel "{EBA920F80F025C7A}Assets/Characters/Vests/Vest_6B2/BOABlackVest.et"
+   ItemModel "{C28426D8DAA1FC1C}Assets/Characters/Vests/Vest_6B2/BOABlackVest_Item.et"
   }
  }
 }

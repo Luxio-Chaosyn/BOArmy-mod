@@ -1,0 +1,24 @@
+GameEntity : "{2B29B7E1C6BD1048}Prefabs/Characters/HeadGear/Hat_M88_01/Hat_M88_01_v1.et" {
+ ID "5112706CD4157AC7"
+ components {
+  MeshObject "{5112706CD4157AE0}" {
+   Materials {
+    MaterialAssignClass "{5E966ACC9E568623}" {
+     SourceMaterial "Hat_M88_01"
+     AssignedMaterial "{174F0C8405970867}Assets/Characters/HeadGear/Hat_M88/Data/Hat_M88_Black_01.emat"
+    }
+   }
+  }
+  ParametricMaterialInstanceComponent "{5854DCD8F168E46E}" {
+   ColorAlbedo 0 0 0 1
+  }
+  BaseLoadoutClothComponent "{5112706CD4157AF8}" {
+   WornMaterialsOverride {
+    "{174F0C8405970867}Assets/Characters/HeadGear/Hat_M88/Data/Hat_M88_Black_01.emat"
+   }
+   ItemMaterialsOverride {
+    "{174F0C8405970867}Assets/Characters/HeadGear/Hat_M88/Data/Hat_M88_Black_01.emat"
+   }
+  }
+ }
+}

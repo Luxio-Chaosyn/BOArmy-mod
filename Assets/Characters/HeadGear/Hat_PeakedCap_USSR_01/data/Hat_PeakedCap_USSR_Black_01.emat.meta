@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{453B349BDCD57F71}Assets/Characters/HeadGear/Hat_PeakedCap_USSR_01/data/Hat_PeakedCap_USSR_Black_01.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

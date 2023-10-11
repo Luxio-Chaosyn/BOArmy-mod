@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{2AE9D2B5EC809978}Prefabs/Characters/HeadGear/Hat_M88_01/Hat_M88_Black_01_v2.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}
