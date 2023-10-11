@@ -1,3 +1,28 @@
 GenericEntity : "{1F816D1D2CF505B8}Prefabs/Characters/Vests/Vest_6B2/Vest_6B2_base.et" {
  ID "50D8C49B3558F152"
+ components {
+  InventoryItemComponent "{5B189416D721A6DE}" {
+   Attributes SCR_ItemAttributeCollection "{5B189416D721A6C7}" {
+    CustomAttributes {
+     SCR_ArmoredClothItemData "{5D7A6EB997143963}" {
+      m_aProtectedHitZones + {
+       "Abdomen" "Hips" "RArm" "LArm"
+      }
+      m_aProtectedDamageTypes + {
+       6
+      }
+      m_eProtection CLASS_3
+     }
+    }
+   }
+  }
+  BaseLoadoutClothComponent "{5312D798A71DFBB1}" {
+   WornMaterialsOverride {
+    "{2B2CB7A2E261020F}Assets/Characters/Vests/Vest_6B2/Data/Vest_6b2_black.emat"
+   }
+   ItemMaterialsOverride {
+    "{2B2CB7A2E261020F}Assets/Characters/Vests/Vest_6B2/Data/Vest_6b2_black.emat"
+   }
+  }
+ }
 }
